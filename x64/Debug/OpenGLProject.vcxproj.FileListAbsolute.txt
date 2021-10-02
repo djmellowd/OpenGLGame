@@ -1,0 +1,2 @@
+D:\C++\Napisane Programy\OpenGLProject\x64\Debug\OpenGLProject.exe
+D:\C++\Napisane Programy\OpenGLProject\x64\Debug\OpenGLProject.pdb
